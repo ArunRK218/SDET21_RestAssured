@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2789" started-at="2021-10-30T19:33:18 IST" finished-at="2021-10-30T19:33:21 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2789" started-at="2021-10-30T19:33:18 IST" finished-at="2021-10-30T19:33:21 IST">
+      <class name="EnToEndRmgy.CreateProjectAndVerifyInDatabase">
+        <test-method status="PASS" signature="bsConfig()[pri:0, instance:EnToEndRmgy.CreateProjectAndVerifyInDatabase@4d3167f4]" name="bsConfig" is-config="true" duration-ms="840" started-at="2021-10-30T19:33:18 IST" finished-at="2021-10-30T19:33:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method status="PASS" signature="createProjectAndVerifyInDB()[pri:0, instance:EnToEndRmgy.CreateProjectAndVerifyInDatabase@4d3167f4]" name="createProjectAndVerifyInDB" duration-ms="2761" started-at="2021-10-30T19:33:18 IST" finished-at="2021-10-30T19:33:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProjectAndVerifyInDB -->
+        <test-method status="PASS" signature="asConfig()[pri:0, instance:EnToEndRmgy.CreateProjectAndVerifyInDatabase@4d3167f4]" name="asConfig" is-config="true" duration-ms="8" started-at="2021-10-30T19:33:21 IST" finished-at="2021-10-30T19:33:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- EnToEndRmgy.CreateProjectAndVerifyInDatabase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
